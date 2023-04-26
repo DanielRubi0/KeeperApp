@@ -11,4 +11,6 @@ root.render(
   </React.StrictMode>
 );
 
+//Challenge. Render all the notes inside notes.js as a separete component
+
 reportWebVitals();
